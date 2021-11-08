@@ -22,7 +22,6 @@ function is_anagram($word1, $word2) {
     } else {
         echo "Ces mots ne sont pas des anagrammes !";
     }
-
 }
 
 ?>
